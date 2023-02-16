@@ -1,0 +1,18 @@
+body{
+    background-color: goldenrod;
+}
+
+#update_score{
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+#update_time{
+    font-size: 25px;
+    float:right;
+    margin-right: 25px;
+}
+
+#update_drawn{
+    color: black;
+}
